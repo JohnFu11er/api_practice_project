@@ -1,0 +1,44 @@
+{
+    "KL001": {
+        "hosts": [
+            "KL001_A",
+            "KL001_B",
+            "KL001_C"
+        ],
+        "vars": {
+            "networks": {
+                "Data": {
+                    "network": "192.168.10.0/28"
+                }
+            }
+        }
+    },
+    "KL002": {
+        "hosts": [
+            "KL002_A",
+            "KL002_B",
+            "KL002_C"
+        ],
+        "vars": {
+            "networks": {
+                "Data": {
+                    "network": "192.168.20.0/28"
+                }
+            }
+        }
+    },
+    "KL003": {
+        "hosts": [
+            "KL003_A",
+            "KL003_B",
+            "KL003_C"
+        ],
+        "vars": {
+            "networks": {
+                "Data": {
+                    "network": "192.168.30.0/28"
+                }
+            }
+        }
+    }
+}
