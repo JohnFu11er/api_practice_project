@@ -7,4 +7,4 @@ This is a repository for practicing:
   
 The goal is to write a python program on your local computer that performs an API call
 to the two files (Inventory.json and devices.json) in this repository and joins them
-together so that your your final output is the same as the solution.json file.
+together so that your your final output is the same as the custom_inventory.json file.
