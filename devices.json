@@ -3,7 +3,7 @@
         "hosts" : [
             "KL001_A",
             "KL001_B",
-            "KL001_C",
+            "KL001_C"
             ],
         "vars" : {
             "networks" : {
@@ -17,7 +17,7 @@
         "hosts" : [
             "KL002_A",
             "KL002_B",
-            "KL002_C",
+            "KL002_C"
             ],
         "vars" : {
             "networks" : {
@@ -31,7 +31,7 @@
         "hosts" : [
             "KL003_A",
             "KL003_B",
-            "KL003_C",
+            "KL003_C"
             ],
         "vars" : {
             "networks" : {
