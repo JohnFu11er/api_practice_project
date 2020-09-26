@@ -11,4 +11,5 @@ together so that your your final output is the same as the custom_inventory.json
 
 Although the devices.json file and the custom_inventory.json file are the same, the goal
 is to use the Inventory.json file as your starting file, and add the contents of the
-devices.json file to it.
+devices.json file to it through the use of dictionary parsing to end up with the
+custom_inventory.json file.
